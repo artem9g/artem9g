@@ -8,7 +8,7 @@
 🌳https://ocean-adv.com.ua - сайт міні рекламної агенції (верстка+WordPress) - комерція;
 🌳https://heartbeatmktg.com - лендінг для сервісу, який допомагає людям похилого віку у виборі догляду за ними (WP,Elementor Pro) - комерція;
   Трішки трогав CMS MODX.
-🌱 Резюме - https://drive.google.com/file/d/10srQ6FMdNpoe4aT0KtB0_sfMAZZEz_dB/view?usp=share_link
+🌱 Резюме - https://drive.google.com/file/d/10srQ6FMdNpoe4aT0KtB0_sfMAZZEz_dB/view?usp=share_link](https://drive.google.com/drive/folders/1F5S8yrnw24lEn4CJjMeRSz1iC-hllRg2?usp=sharing)
 <!--
 **artem9g/artem9g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
